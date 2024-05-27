@@ -1,2 +1,2 @@
-# EternalPurple.exe
-my first gdi c++ malware. it is destructive
+# EternalPurple
+C++ skidded GDI trojan by EmmyMalware
